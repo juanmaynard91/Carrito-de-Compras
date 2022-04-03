@@ -1,4 +1,4 @@
-DESCRIPCION: Aplicacion de Carrito De Compra hecho con Vuex
+DESCRIPCION: Aplicacion de Carrito De Compra hecho con Vuex y Vue Composition Api
 
 LINK: https://juanmaynard91.github.io/vue-composition-api.github.io/
 
